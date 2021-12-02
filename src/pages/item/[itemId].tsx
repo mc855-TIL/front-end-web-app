@@ -176,7 +176,7 @@ const Item = ({ orderData }: Props) => {
       <Head>
         <title>{orderData.item}</title>
         <meta name="description" content={orderData.descricao} />
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="https://www.fcm.unicamp.br/fcm/sites/default/files/favicon-transparent.ico" />
       </Head>
 
       <Layout style={{ backgroundColor: "#FAFAFA !important" }}>

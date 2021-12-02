@@ -2,7 +2,7 @@ export enum AREAS {
   BIOLOGICAS = "Biológicas",
   EXATAS = "Exatas",
   HUMANAS = "Humanas",
-  TECNOLOGIAS = "Tecnologias",
+  TECNOLOGIAS = "Tecnológicas",
 }
 
 export enum ITEM_TYPE {

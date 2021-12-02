@@ -48,6 +48,11 @@ const subjectData = {
     icon: <BranchesOutlined />,
     color: "cyan",
   },
+  Tecnologias: {
+    img: "/Tecnológicas-cover.png",
+    icon: <BranchesOutlined />,
+    color: "cyan",
+  },
 };
 
 interface Props {

@@ -25,12 +25,32 @@
 
 ### Descrição do projeto:
 
-API da Troca de Insumos de Laboratórios (TIL), um projeto da matéria mc855.
+Aplicação frontend Troca de Insumos de Laboratórios (TIL), um projeto da matéria mc855.
 Prova de conceito para melhorias da plataforma ["Solidariedade à Pesquisa"](https://solidariedade.unicamp.br/home/), iniciativa da
 Faculdade de Ciências Médicas (FCM) da Unicamp.
 
 
 #### Prints das telas com descrição das funcionalidades. 
+
+Abaixo estão imagens do projeto rodando:
+- A tela inicial com dados sobre o funcionamento do site:
+![LandingPage](public/readme.md/landing-page.png)
+![Ultimas ofertas](public/readme.md/landing-page-2.png)
+
+- O catalogo com todas as ordem disponíveis no site:
+![catalogo](public/readme.md/catalogo.png)
+
+- O catalogo com os resultados de uma busca:
+![busca](public/readme.md/search.png)
+
+- O modal de criação de uma ordem:
+![busca](public/readme.md/create-order.png)
+
+- A tela de criação de uma ordem:
+![busca](public/readme.md/create-order-screen.png)
+
+- Tela de detalhes de uma ordem:
+![detalhes](public/readme.md/order-details.png)
 
 ## Developers Front-end
 João Victor Flores da Costa   RA: 199818\

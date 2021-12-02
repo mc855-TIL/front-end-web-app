@@ -1,0 +1,19 @@
+.container {
+  min-height: 100vh;
+  height: 100vh;
+}
+
+.main {
+  background-color: white;
+  height: calc(100% - 70px);
+  /* max-height: 100vh; */
+}
+/* 
+.footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+} */

@@ -1,0 +1,58 @@
+.grid {
+    margin-top: 2rem;
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    grid-column-gap: 3rem;
+}
+
+.section {
+    margin: 2rem 0rem;
+}
+
+.col {
+    display: flex;
+    flex-direction: column;
+    margin-right: 1.5rem;
+    margin-top: 1.5rem;
+}
+
+.contact {
+    background-color: white;
+    display: flex;
+    border: 1px solid #F0F0F0;
+    border-radius: 4px;
+}
+
+.img_container {
+    display: grid;
+    place-items: center;
+    width: 148px;
+    height: 148px;
+    border-right: 1px solid #F0F0F0;
+}
+
+.contact_info {
+    flex: 1;
+    padding: 10px 30px;
+}
+
+.instituicao {
+    color:rgba(0, 0, 0, 0.45);
+}
+
+.label {
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 20px;
+    text-align: left;
+    color: rgba(0, 0, 0, 0.45);;
+}
+
+.button {
+    background-color:  #08979C !important;
+    border-radius: 4px;
+    color: white;
+    width: 300px;
+    height: 40px;
+    margin: 0.25rem 0 1rem;
+}

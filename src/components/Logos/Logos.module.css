@@ -1,0 +1,19 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 20px;
+}
+
+.row {
+    margin: 30px 0px;
+    display: flex;
+    justify-content: space-evenly;
+    width: 100%
+}
+
+.image {
+    
+    margin-right: 12px;
+}

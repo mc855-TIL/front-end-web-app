@@ -1,0 +1,32 @@
+.header {
+    z-index: 1;
+    width: 100%;
+    background: white;
+    padding: 0.5rem;
+    display: flex;
+    align-items: center;
+    border-bottom: 1px solid #F0F0F0;
+    margin-bottom: 3rem;
+  }
+  
+  .logo {
+    height: 48px;
+    background: white;
+    flex: 1;
+    display: flex;
+    justify-content: center;
+  }
+
+  .button {
+    background-color: #08979C;
+    color: white;
+  }
+  
+  .toolBar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: white;
+    width: 140px;
+    padding: 1rem;
+  }

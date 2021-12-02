@@ -1,0 +1,21 @@
+.form {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-column-gap: 4rem;
+    place-items: center;
+    height: 100%;
+}
+
+.column {
+    height: 300px;
+    width: 100%;
+    flex: 1;
+}
+
+.button {
+    background-color:  #08979C !important;
+    border-radius: 4px;
+    color: white;
+    width: 300px;
+    height: 40px;
+}

@@ -1,0 +1,15 @@
+.catalog_page_header {
+    background-color: none;
+}
+
+.create_offer_button {
+    background-color: #08979C;
+    color: #FFF;
+}
+
+.create_offer_button:hover {
+    background-color: #08979C;
+    border-color: #08979C;
+    color: white;
+    transform: scale(1.05);
+}

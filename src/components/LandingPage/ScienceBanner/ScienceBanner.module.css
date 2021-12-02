@@ -1,0 +1,23 @@
+.container {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    background-color:  #E6FFFB;
+    
+}
+
+.bannerText {
+    width: 30%;
+    padding: 2rem 5rem 5rem 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.image {
+    
+    background-image: linear-gradient(270deg, #E6FFFB 1%, rgba(230, 255, 251, 0) 30%), url('../../../../public/science.png');
+
+    width: 500px;
+    height: 400px;
+}

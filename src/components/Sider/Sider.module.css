@@ -1,0 +1,37 @@
+.container {
+    padding: 8px 16px;
+    background-color: #FFF;
+    display: flex;
+    align-items: flex-start;
+}
+
+.title {
+    background-color: #FFF;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 28px;
+    color: black;
+    text-align: left;
+    margin: 0 !important;
+}
+
+.clear_text {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 22px;
+    text-align: left;
+    color:  #00000073;
+    background-color: #FFF;
+}
+
+.section {
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 22px;
+    text-align: left;
+}
+
+.space {
+    background-color:  #FFF;
+    padding: 4px;
+}

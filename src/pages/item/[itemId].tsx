@@ -155,7 +155,7 @@ const Item = ({ orderData }: Props) => {
 
   const handleSelectItem = async () => {
     const status = await createNegotiation()
-    const msg = status === 204 ? message['succes'] : message['failed']
+    const msg = status ? message.success : message['failed']
     notification.open(msg);
   }
 
